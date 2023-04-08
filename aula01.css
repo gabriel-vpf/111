@@ -1,0 +1,71 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    text-align: center;
+}
+
+.zzz {
+    display: flex;
+    background-color: dodgerblue;
+    padding: 11px;
+    margin: 5px;
+    border: 7px solid;
+
+}
+
+.zzz>div {
+    margin: 5px;
+    padding: 5px;
+}
+
+.aaa {
+    background-color: aqua;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border: 2px solid;
+
+}
+
+.bbb {
+    background-color: aqua;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border: 2px solid;
+
+}
+
+.ccc {
+    background-color: aqua;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border: 2px solid;
+
+}
+
+.ddd {
+    background-color: aqua;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border: 2px solid;
+
+}
+
+.eee {
+    background-color: aqua;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5px 0 5px 0;
+    border: 2px solid;
+
+}
